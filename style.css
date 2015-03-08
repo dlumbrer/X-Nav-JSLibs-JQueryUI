@@ -1,0 +1,17 @@
+body{
+    background-image: url(http://blog.desdelinux.net/wp-content/uploads/2010/09/warty-final-ubuntu2.jpg?980efb);
+    color: #FFFFFF;
+}
+
+.ui-widget-header{
+    
+    color: #B12969;
+
+
+}
+
+.draggable {
+    
+    width: 150px; height: 150px; padding: 0.5em; 
+    
+    }
